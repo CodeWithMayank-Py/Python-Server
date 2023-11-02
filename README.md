@@ -32,4 +32,3 @@ If you find this project helpful, consider [buying me a coffee](#) to support fu
 
 ---
 
-<p align="center">Made with ❤️ by Coding Craft</p>
